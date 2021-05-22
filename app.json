@@ -42,8 +42,5 @@
 			"value": "master"
 		}
 	},
-    "addons": [
-      "logdna:quaco"
-    ],
     "stack": "container"
   }
